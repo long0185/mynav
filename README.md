@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img alt="PC 端明亮/暗夜主题" src="./doc/images/screenshot-pc-light-dark.webp">
+  <img alt="PC 端明亮/暗夜主题" src="./doc/images/screenshot-pc-light-dark.png">
 
   <img alt="后台管理" src="./doc/images/screenshot-pc-cms-light-dark.png">
 
